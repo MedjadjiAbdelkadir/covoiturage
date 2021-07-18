@@ -1,0 +1,12 @@
+.title_site b{
+    color: #2196F3;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.title_site span{
+    margin-left: 1px;
+    padding: 1px;
+    background-color: #2196F3;
+    color: #FFF;
+}
