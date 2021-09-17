@@ -1,12 +1,38 @@
-.title_site b{
-    color: #2196F3;
-    font-size: 35px;
-    font-weight: bold;
+/* 
+    color:#ec1c23;
+    color:#08526d  
+*/
+
+
+.login-page{
+    background-color: #fff;
+}  
+.login-page .card{
+    border-radius: 39px 17px;
+    margin-top: 20px;
+}
+.login-page{
+    background-color: #fff;
+}
+.login-page .card{
+     border-radius: 39px 17px;
 }
 
-.title_site span{
-    margin-left: 1px;
-    padding: 1px;
-    background-color: #2196F3;
-    color: #FFF;
+.register-page{
+   background-color: #fff;
+}  
+.register-page .card{
+   border-radius: 39px 17px;
+}
+
+.logo >a span{
+    font-size: 25px;
+    font-weight: 600;
+}
+.logo span:first-child{
+    color:#08526d;
+    font-weight: bold;
+}
+.logo span:last-child{
+    color:#ec1c23;
 }
