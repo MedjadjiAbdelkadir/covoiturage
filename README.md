@@ -30,7 +30,7 @@ A site where advertisements for interstate trips are posted in Algeria, the aim 
 ├─ `tests` \
 ├─ `vendor` \
 ├─ `.env.example` \
-├ `artisan` \
-├ `composer.json` \
-├ `package.json` \
-└ `README.md`
+├─ `artisan` \
+├─ `composer.json` \
+├─ `package.json` \
+├─ `README.md`
