@@ -11,8 +11,15 @@
 
 A site where advertisements for interstate trips are posted in Algeria, the aim of which is to earn money for travelers who own cars, reduce traffic pressure and save time for travelers who do not own cars
 ## Screenshots
-### Home Page
+### Home Page 
 <img src="https://github.com/MedjadjiAbdelkadir/covoiturage/blob/main/public/Screenshots/Home%20Page.png" width="95%" height="500">
+
+### List Posts  
+<img src="https://github.com/MedjadjiAbdelkadir/covoiturage/blob/main/public/Screenshots/List%20Posts.png" width="95%" height="500">
+
+### Research Results 
+<img src="https://github.com/MedjadjiAbdelkadir/covoiturage/blob/main/public/Screenshots/Result%20Serach.png" width="55%" height="500">
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
