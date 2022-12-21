@@ -19,7 +19,7 @@ A site where advertisements for interstate trips are posted in Algeria, the aim 
 
 
 ## Project Structure 
-┌ `app` \
+├─ `app` \
 ├─ `bootstrap` \
 ├─ `config` \
 ├─ `database` \
