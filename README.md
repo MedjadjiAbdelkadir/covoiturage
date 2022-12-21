@@ -16,7 +16,7 @@ A site where advertisements for interstate trips are posted in Algeria, the aim 
 - [Laravel](https://laravel.com).
 - HTML5 && CSS3.
 - JS.
-
+- database MySQL
 
 ## Project Structure 
 ├─ `app` \
