@@ -35,36 +35,6 @@
                     </div>
                 </div>
             </div>
-
-            {{-- Car Sharing
-        <div class="bd-example">
-            <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner">
-                <h1 class="h3">
-    </h1>
-                <div class="overlay"></div>
-
-                <div class="carousel-item carousel-one active">
-                <img src="{{asset('home/img/carousel-img-1.jpg')}}" class="d-block w-100" alt="" srcset="">
-                </div>
-
-                <div class="carousel-item carousel-tow">
-                  <img src="{{asset('home/img/carousel-img-3.jpg')}}" class="d-block h-100 w-100" alt="" srcset="">
-
-                </div>
-                <div class="carousel-item carousel-three">
-                  <img src="{{asset('home/img/carousel-img-2.jpg')}}" class="d-block h-100 w-100" alt="" srcset="">
-                </div>
-              </div>
-
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-              </ol>
-            </div>
-          </div>
-           --}}
         </section>
         {{-- End Header Main --}}
     @endif

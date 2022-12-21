@@ -20,6 +20,8 @@ class Post extends Model
     'user_id',
 ];
 
+
+
     #################### Start Relation #################
 
     // N Post => 1 User

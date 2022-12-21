@@ -37,12 +37,14 @@ class User extends Authenticatable
      * @var array
      */
     protected $hidden = [
-        
+
         'password',
         'remember_token',
     ];
-    
-    
+
+
+
+
     /**
      * The attributes that should be cast to native types.
      *
@@ -52,7 +54,7 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    
+
     //  public function getAvatarAttribute($value)
     // {
     //     if($value == null){

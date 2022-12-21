@@ -64,25 +64,22 @@ class AuthController extends Controller
         return view('Auth.login')->with(['title' => 'Sign in']);
     }
     // ---------------- Post Login  ---------------- //
+
     public function postLogin(Request $re){
+
         $val = $re->validate([
             'email'=>'required|email',
             'password'=>'required'
         ]) ;
         $r = $re->only("email","password");
 
+
         if(Auth::attempt($r)){
-            $user = Auth::user();
+            $user = Auth::user(); 
 
             // dd($user );
             $users = $re->session()->put('users' , $user) ;
-
-            // return redirect(session('link'))->with(['title' => 'Home','user'=>$users]);
-            // return Redirect::back() ;
-            // return Redirect::back()->with(['title' => 'Home','user'=>$users]);
-            // return redirect(url()->previous())->with(['title' => 'Home','user'=>$users]);
-
-        return redirect('index')->with(['title' => 'Home','user'=>$users]);
+            return redirect('index')->with(['title' => 'Home','user'=>$users]);
 
 
         }else{
