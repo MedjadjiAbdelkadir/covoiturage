@@ -8,7 +8,7 @@ A site where advertisements for interstate trips are posted in Algeria, the aim 
 ### List Posts  
 <img src="https://github.com/MedjadjiAbdelkadir/covoiturage/blob/main/public/Screenshots/List%20Posts.png" width="95%" height="500">
 
-### Research Results 
+### Search Results 
 <img src="https://github.com/MedjadjiAbdelkadir/covoiturage/blob/main/public/Screenshots/Result%20Serach.png" width="55%" height="500">
 
 ## Technologies Used in the Project 
